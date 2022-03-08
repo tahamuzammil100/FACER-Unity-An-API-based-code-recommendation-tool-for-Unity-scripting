@@ -1,0 +1,3 @@
+# FACER-Unity-An-API-based-code-recommendation-tool-for-Unity-scripting
+
+Developers spend significant amount of time to search and understand code examples that implement their desired software features. To solve this issue we are implementing code search and recommendation within working IDE. Existing code search techniques typically focus on finding code snippets for a single given query, which means that developers need to perform a separate search for each desired functionality. In this project we propose FACER plugin for Unity 3d game development in C\# language.The plugin would suggest code for additional features.
